@@ -69,16 +69,16 @@
 
 ## Use To Code
 
-![Python3](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![SQL](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Python3](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=Python3&logoColor=F0DB4F)
+![SQL](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=SQL&logoColor=007acc)
 
 ## Technical
-![Machine Learning](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Deep Learning](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Computer Vision](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NLP](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Attention](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FlaskAPI](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MachineLearning](https://img.shields.io/badge/-MachineLearning-61DBFB?style=for-the-badge&labelColor=black&logo=MachineLearning&logoColor=61DBFB)
+![DeepLearning](https://img.shields.io/badge/DeepLearning-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ComputerVision](https://img.shields.io/badge/ComputerVision-000000?style=for-the-badge&logo=ComputerVision&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-3C873A?style=for-the-badge&labelColor=black&logo=NLP&logoColor=3C873A)
+![Attention](https://img.shields.io/badge/Attention-000000?style=for-the-badge&logo=Attention&logoColor=white)
+![FlaskAPI](https://img.shields.io/badge/FlaskAPI-4EA94B?style=for-the-badge&logo=FlaskAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
