@@ -69,8 +69,8 @@
 
 ## Use To Code
 
-![Python3](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=Python3&logoColor=F0DB4F)
-![SQL](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=SQL&logoColor=007acc)
+![Python3](https://img.shields.io/badge/Python3-F0DB4F?style=for-the-badge&labelColor=black&logo=Python3&logoColor=F0DB4F)
+![SQL](https://img.shields.io/badge/SQL-007acc?style=for-the-badge&labelColor=black&logo=SQL&logoColor=007acc)
 
 ## Technical
 ![MachineLearning](https://img.shields.io/badge/-MachineLearning-61DBFB?style=for-the-badge&labelColor=black&logo=MachineLearning&logoColor=61DBFB)
@@ -80,6 +80,17 @@
 ![Attention](https://img.shields.io/badge/Attention-000000?style=for-the-badge&logo=Attention&logoColor=white)
 ![FlaskAPI](https://img.shields.io/badge/FlaskAPI-4EA94B?style=for-the-badge&logo=FlaskAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Framework & Libraries
+
+![TensorFlow](https://img.shields.io/badge/-Tensorflow-61DBFB?style=for-the-badge&labelColor=black&logo=Tensorflow&logoColor=61DBFB)
+![Keras](https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=Keras&logoColor=61DAFB)
+![Pytorch](https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=Pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-3C873A?style=for-the-badge&labelColor=black&logo=Scikit-learn&logoColor=3C873A)
+![Pandas](https://img.shields.io/badge/Pandas-3C873A?style=for-the-badge&labelColor=black&logo=Pandas&logoColor=3C873A)
+![NumPy](https://img.shields.io/badge/NumPy-3C873A?style=for-the-badge&labelColor=black&logo=NumPy&logoColor=3C873A)
+![YOLO](https://img.shields.io/badge/YOLO-3C873A?style=for-the-badge&labelColor=black&logo=YOLO&logoColor=3C873A)
+
 
 <br/>
 
