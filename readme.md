@@ -54,7 +54,7 @@
  # About me
  
 <p>
- <img align="right" width="400" src="C:\Users\pc\Downloads\2dimage\assets\try.jpg" alt="try jpg" />
+ <img align="right" width="400" src="./try.jpg" alt="try jpg" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
