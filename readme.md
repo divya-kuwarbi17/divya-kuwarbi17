@@ -75,6 +75,8 @@
 ![MachineLearning](https://img.shields.io/badge/-MachineLearning-61DBFB?style=for-the-badge&labelColor=black&logo=MachineLearning&logoColor=61DBFB)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ComputerVision](https://img.shields.io/badge/ComputerVision-000000?style=for-the-badge&logo=ComputerVision&logoColor=white)
+![Generative AI](https://img.shields.io/badge/ComputerVision-000000?style=for-the-badge&logo=ComputerVision&logoColor=white)
+![LLM](https://img.shields.io/badge/ComputerVision-000000?style=for-the-badge&logo=ComputerVision&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-3C873A?style=for-the-badge&labelColor=black&logo=NLP&logoColor=3C873A)
 ![Attention](https://img.shields.io/badge/Attention-000000?style=for-the-badge&logo=Attention&logoColor=white)
 ![FlaskAPI](https://img.shields.io/badge/FlaskAPI-4EA94B?style=for-the-badge&logo=FlaskAPI&logoColor=white)
