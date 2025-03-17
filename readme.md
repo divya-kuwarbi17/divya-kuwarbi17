@@ -24,7 +24,7 @@
     <samp>&gt; Hey There!, I am
         <b>
             <a target="_blank" href="https://github.com/divya-kuwarbi17">
-                <span style="font-size: 1.5em;">Divya Kuwarbi</span>
+                <span style="font-size: 3.0em;">Divya Kuwarbi</span>
             </a>
         </b>
     </samp>
