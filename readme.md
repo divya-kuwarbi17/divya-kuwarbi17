@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/divya-kuwarbi17" target="blank">
+ <a href="https://divya-kuwarbi17.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="divya" />
  </a>
  <a href="linkedin.com/in/divya-kuwarbi-a7608019b" target="_blank">
