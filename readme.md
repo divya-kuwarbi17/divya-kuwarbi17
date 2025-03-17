@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://github.com/divya-kuwarbi17">「 Google Me 」</a>
+    <a href="https://divya-kuwarbi17.github.io">「 Google Me 」</a>
     <br>
     「 I am Data Scientist(ML Engineer) from <b>DevBhumi Uttarakhand</b> 」
     <br>
