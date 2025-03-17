@@ -21,9 +21,13 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/divya-kuwarbi17">Divya Kuwarbi</a></b>
-        </samp>
+    <samp>&gt; Hey There!, I am
+        <b>
+            <a target="_blank" href="https://github.com/divya-kuwarbi17">
+                <span style="font-size: 1.5em;">Divya Kuwarbi</span>
+            </a>
+        </b>
+    </samp>
 </h3>
 
 
